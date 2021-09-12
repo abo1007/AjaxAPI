@@ -1,0 +1,2 @@
+# AjaxAPI
+ API封装
